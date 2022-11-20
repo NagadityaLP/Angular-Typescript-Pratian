@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "watch": true ,     
+        "target": "ES6",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "src/index.ts"
+    ]
+}
